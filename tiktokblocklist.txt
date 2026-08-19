@@ -9,3 +9,8 @@
 0.0.0.0 aggr32-normal.tiktokv.eu.fritz.box
 0.0.0.0 rtlog16-normal-no1a.tiktokv.eu.fritz.box
 0.0.0.0 p16-tiktok-dm-sticker-sign-useastred.tiktokcdn-eu.com
+0.0.0.0 webcast-frontier16-normal-useastred.tiktokv.eu
+0.0.0.0 rtc-access16-normal-no1a.tiktokv.eu
+0.0.0.0 pull-flv-f60-tt03.tiktokcdn-eu.com
+0.0.0.0 bsync31-normal-no1a.tiktokv.eu
+0.0.0.0 tnc19-normal-useastred.tiktokv.eu
