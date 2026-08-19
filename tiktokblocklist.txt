@@ -1,3 +1,6 @@
 0.0.0.0	p16-common-sign.tiktokcdn-eu.com
 0.0.0.0	p16-tiktok-dm-sticker-sign-useastred.tiktokcdn-eu.com
 0.0.0.0 p16-common.tiktokcdn-eu.com
+0.0.0.0 webcast16-normal-useastred.tiktokv.eu
+0.0.0.0 tnc19-normal-useastred.tiktokv.eu
+0.0.0.0 bsync31-normal-no1a.tiktokv.eu
