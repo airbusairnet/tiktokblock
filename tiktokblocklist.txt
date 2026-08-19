@@ -4,3 +4,8 @@
 0.0.0.0 webcast16-normal-useastred.tiktokv.eu
 0.0.0.0 tnc19-normal-useastred.tiktokv.eu
 0.0.0.0 bsync31-normal-no1a.tiktokv.eu
+0.0.0.0 im-api.tiktok.com
+0.0.0.0 im-ws.tiktok.com
+0.0.0.0 aggr32-normal.tiktokv.eu.fritz.box
+0.0.0.0 rtlog16-normal-no1a.tiktokv.eu.fritz.box
+0.0.0.0 p16-tiktok-dm-sticker-sign-useastred.tiktokcdn-eu.com
